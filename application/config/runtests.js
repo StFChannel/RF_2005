@@ -1,6 +1,6 @@
-config.jars = "jar/<JAR file name>.jar";
-config.jad = "jar/<JAD file name>.jad";
-config.midletClassName = "com.example"; 
+config.jars = "jar/2005RealFootball_s40v2a.jar";
+config.jad = "jar/2005RealFootball_s40v2a.jad";
+config.midletClassName = "RealFootball"; 
 MIDlet.shouldStartBackgroundService = function() {
   return fs.exists("/startBackgroundService");
 };
