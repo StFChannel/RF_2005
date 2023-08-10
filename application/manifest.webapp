@@ -1,16 +1,16 @@
 {
-  "name": "PluotSorbet Template",
-  "description": "a PluotSorbet template project",
+  "name": "RF_2005",
+  "description": "Real Football 2005 by Gameloft",
   "launch_path": "/main.html",
-  "origin": "app://pluotsorbet-template.opengiraffes.top",
+  "origin": "app://rf_2005.stfchannel.top",
   "version": "1624444801",
   "icons": {
     "128": "/img/icon-128.png",
     "512": "/img/icon-512.png"
   },
   "developer": {
-    "name": "openGiraffes Group",
-    "url": "https://opengiraffes.top"
+    "name": "StFChannel",
+    "url": "https://www.youtube.com/@SofiatheFirstChannel2003"
   },
   "default_locale": "en",
   "orientation": ["portrait", "landscape"],
